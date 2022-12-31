@@ -10,7 +10,7 @@
     "react-dom": "^15.6.1",
     "react-joi-validation": "^1.7.0",
     "react-router-dom": "^4.1.1",
-    "react-scripts": "0.9.5"
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {},
   "scripts": {
